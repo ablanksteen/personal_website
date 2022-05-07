@@ -1,0 +1,34 @@
+/* header fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Whisper&display=swap');
+
+body{
+    background-color:#212529;
+    font-family: 'Darker Grotesque', sans-serif;
+    color:antiquewhite;
+    margin-top: 30px;
+    margin-right:50px;
+    margin-left:50px;
+    margin-bottom: 30px;
+
+}
+
+.page_header{
+    color:antiquewhite;
+    font-family : 'Whisper';
+
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
